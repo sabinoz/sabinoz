@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabinoz
 - 👀 I’m interested in mainly to the field of programming
-- 🌱 I’m currently learning full stack python
+- 🌱 I’m currently learning fullstack python
 - 💞️ I’m looking to collaborate on new groups
 - 📫 you can contact me via t.me/Sabii_09
 
